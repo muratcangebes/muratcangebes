@@ -5,11 +5,9 @@
 <p align="center">Merhaba 👋, ben Muratcan Gebeş</p>
 
 <p align="center" style="font-size:20;">
-👨‍💻 İstanbul'dan tutkulu bir Jr. Developer!<br><br>🔭 Şu anda üzerinde çalışıyorum React Native<br><br>📫 Bana nasıl ulaşabilirsiniz muratcan.gebes19@gmail.com<br>
+👨‍💻 İstanbul'dan tutkulu bir Jr. Developer!<br><br>🔭 Şu anda   React Native   üzerinde çalışıyorum.<br><br>📫 Bana nasıl ulaşabilirsiniz muratcan.gebes19@gmail.com<br>
 </p>
 </h2>
-
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muratcangebes) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/muratcanngebes) 
@@ -31,6 +29,7 @@
 [![](https://visitcount.itsvg.in/api?id=muratcangebes&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 
