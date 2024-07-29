@@ -24,6 +24,5 @@ kendimi geliştirmeyi amaçlıyorum.
 <br>
 <br>
 # 📊 GitHub Stats:
-<p align="center"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=muratcangebes&theme=react&hide_border=true" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratcangebes&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact"alt="muratcangebes" /></p>
 
