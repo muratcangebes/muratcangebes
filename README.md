@@ -1,13 +1,13 @@
 <h1 align="center">
-  Herkese merhaba, benim adım Muratcan!
+  Hello everyone, my name is Muratcan!
 </h1> 
 <img src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" align="right" alt="Hacking" height="200"/>
 <p align="left"> 
-Yazılıma tutkulu bir öğrenci olarak, Android ve iOS işletim sistemlerinde mobil uygulama geliştirme hedeflerime odaklanıyorum. 
-Yaratıcı düşünce, problem çözme, ve takım çalışması becerilerimi geliştirerek projelerde etkili hedeflere ulaşmayı amaçlıyorum. 
-Yeni teknolojilere ve trendlere açık bir tutumla sürekli araştırma yaparak güncel kalmayı hedefliyorum. 
-Öğrenmeye açık ve takım çalışmasına değer veren bir birey olarak, farklı perspektiflerden öğrenmeyi ve sürekli 
-kendimi geliştirmeyi amaçlıyorum.
+As a student passionate about software, I focus on my goals of developing mobile applications on Android and iOS operating systems. 
+I aim to achieve effective goals in projects by developing my creative thinking, problem solving, and teamwork skills. 
+I aim to stay up to date with new technologies and trends by constantly researching with an open attitude. 
+As an individual who is open to learning and values teamwork, I aim to learn from different perspectives and continuously 
+I aim to improve myself.
 </p> 
 
 <br>
