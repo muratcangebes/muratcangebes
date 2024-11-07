@@ -1,7 +1,6 @@
 <h1 align="center">
   Hello everyone, my name is Muratcan!
 </h1> 
-<img src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" align="right" alt="Hacking" height="160"/>
 <p align="left"> 
 As a student passionate about software, I focus on my goals of developing mobile applications on Android and iOS operating systems. 
 I aim to achieve effective goals in projects by developing my creative thinking, problem solving, and teamwork skills. 
