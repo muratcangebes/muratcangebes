@@ -30,9 +30,3 @@ I aim to improve myself.
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 <br>
 <br>
-# 📊 GitHub Stats:
-<p>
-  <img align="center" 
-       src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=muratcangebes&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" 
-       alt="muratcangebes" />
-</p>
